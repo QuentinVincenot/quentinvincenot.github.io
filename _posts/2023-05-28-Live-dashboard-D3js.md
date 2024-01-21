@@ -5,6 +5,8 @@ categories: [Data Visualization]
 tags: [D3.js, Web]
 ---
 
+# Live Dashboard with D3.js
+
 This personal project presents a live/dynamic web dashboard implemented in HTML/CSS and D3.js. This is a completely personal project, only designed for fun, and with no other specific intention. I am no expert in D3.js, but I am really passionate about **Data Visualisation** and I had always wanted to create something with the D3.js library.
 
 The various sources used to explore and create this project were the following :
