@@ -5,8 +5,6 @@ categories: [Data Visualization]
 tags: [Web, Javascript]
 ---
 
-# Pokémon API visualization
-
 This personal project tries to retrieve Pokémon data from an online free API service, and visualize the results in a HTML/CSS webpage with simple Javascript dynamics. As a big fan of the franchise, this is a completely personal project, designed for fun, only to showcase a simple application about Pokémon.
 
 The various sources used to produce this project were the following :
