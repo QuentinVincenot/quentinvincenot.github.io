@@ -1,6 +1,6 @@
 ---
 title: "Pokémon API visualization"
-date: 2024-01-27 21:30:00 +0000
+date: 2024-01-28 21:30:00 +0000
 categories: [Data Visualization]
 tags: [Web, Javascript]
 ---
@@ -15,4 +15,4 @@ The application is published thanks to Github Pages and is available at this add
 [Pokémon API Application](https://quentinvincenot.github.io/pokemon-api-visualization/)
 
 You can find under a handmade GIF of the resulting application and website :
-![Pokémon API Application](assets/2024-01-27-Pokemon-API-visualization/presentation-gif.gif)
+![Pokémon API Application](assets/2024-01-28-Pokemon-API-visualization/pokemon-api-visualization.gif)
