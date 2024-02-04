@@ -1,7 +1,7 @@
 ---
 title: "Pokémon API visualization"
 date: 2024-01-28 21:30:00 +0000
-categories: [Data Engineering, Data Visualization]
+categories: [Data Visualization, Web application]
 tags: [Pokémon, API, Javascript]
 ---
 

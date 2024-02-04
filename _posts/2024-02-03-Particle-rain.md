@@ -1,8 +1,8 @@
 ---
 title: "Particle rain"
 date: 2024-02-03 23:45:00 +0000
-categories: [Data Visualization]
-tags: [Animation, Javascript]
+categories: [Data Visualization, Animation]
+tags: [Javascript, Canvas]
 ---
 
 This personal project is a short adaptation of the falling particles simulation tutorial provided by [Franks laboratory](https://www.youtube.com/watch?v=nrJh8-Ixnu8)'s video. The application is completely developped thanks to native Javascript canvas functionalities.
