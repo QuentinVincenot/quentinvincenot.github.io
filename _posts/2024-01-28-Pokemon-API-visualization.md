@@ -1,8 +1,8 @@
 ---
 title: "Pokémon API visualization"
 date: 2024-01-28 21:30:00 +0000
-categories: [Data Visualization]
-tags: [Web, Javascript]
+categories: [Data Engineering, Data Visualization]
+tags: [Pokémon, API, Javascript]
 ---
 
 This personal project tries to retrieve Pokémon data from an online free API service, and visualize the results in a HTML/CSS webpage with simple Javascript dynamics. As a big fan of the franchise, this is a completely personal project, designed for fun, only to showcase a simple application about Pokémon.
