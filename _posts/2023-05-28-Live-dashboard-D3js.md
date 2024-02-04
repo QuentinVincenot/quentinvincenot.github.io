@@ -1,6 +1,6 @@
 ---
 title: "Live Dashboard with D3.js"
-date: 2023-05-28 12:00:00 +0100
+date: 2023-05-28 14:15:00 +0100
 categories: [Data Visualization, Dashboard]
 tags: [Javascript, D3.js]
 ---
