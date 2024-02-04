@@ -1,6 +1,6 @@
 ---
 title: "Particle rain"
-date: 2024-02-03 23:45:00 -0200
+date: 2024-02-03 12:00:00 +0100
 categories: [Data Visualization, Animation]
 tags: [Javascript, Canvas]
 ---
