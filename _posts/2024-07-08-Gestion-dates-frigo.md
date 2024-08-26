@@ -1,7 +1,7 @@
 ---
 title: "Gestion des dates de péremption"
 date: 2024-07-08 21:45:00 +0100
-categories: [Data Management, Web application]
+categories: [Projects, Web application]
 tags: [Groceries, Javascript]
 ---
 
