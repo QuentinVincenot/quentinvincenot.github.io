@@ -17,7 +17,7 @@ They also are *responsible and accountable for the level of documentation of dat
 
 *Data Quality must also be one of their top-priority concerns*, with the local data actors in their related data domains. Being the bridge between business users and data technical experts is one of their role, for data in their domain to reach a sufficient level of quality. Ensuring data created or provided by their data domain have good Data Quality standards must be one of their regular daily goal.
 
-![Data Stewards](assets/2024-06-14-Data-stewarship/data-stewards.png)
+![Data Stewards](assets/2024-06-14-Data-stewardship/data-stewards.png)
 
 Great Data Stewards are people with a **large panel of skills, business-centered or technical-related seemlessly**. They must have a strong business know-how to be the bridge between business, operations and data teams. They also should have a strong technical skills baggage, as they need to understand how their domain's data are used through technologies and platforms. Analysis understandings are also very important as they can be considered guardians of data usage, and they must understand the various uses of data. Finally, high interpersonal skills are important for them to draw relationships and become the web of their data usage.
 
@@ -31,6 +31,6 @@ Data Stewards have various roles and mission in an organization. Among these rol
 
 **Enforcing operational Data Governance** must be a daily concern for Data Stewards in their data domains. Indeed, data are shared, reused, transformed, visualized, analyzed, etc. Having a clear overview of data usages within an organization is the responsbility of the respective Data Stewards. Ensuring data security & protection, application of rules and policies must have their full attention.
 
-![Data Community](assets/2024-06-14-Data-stewarship/data-community.png)
+![Data Community](assets/2024-06-14-Data-stewardship/data-community.png)
 
 Besides all these strict and difficult expectations around Data Stewards, they are also expected to become **animators of their proper data domains**, and try to identify ways to improve usage of data. They really are interface points between various domains, business and technical teams, contributing to a data community.
