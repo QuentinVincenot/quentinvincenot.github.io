@@ -1,8 +1,8 @@
 ---
 title: "Data Quality"
 date: 2024-08-15 21:45:00 +0100
-categories: [Data Management, Data Quality]
-tags: [Reading, Synthesis]
+categories: [Data Strategy, Data Quality]
+tags: [Strategy, Quality, Reading, Synthesis]
 ---
 
 > **Data Quality** is a critical aspect of *Data Management*, ensuring that considered data is reliable and trustworthy.
