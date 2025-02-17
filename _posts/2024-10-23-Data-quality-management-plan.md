@@ -50,6 +50,19 @@ Establishing a baseline on where you are, based on quantified metrics, will help
 
 ## 3. Development of Data Quality processes
 
+Your current status assessed, it is time to **develop Data Quality processes and procedures** to meet your expectations.
+Defining processes of fixing bad quality data, documenting procedures to update datasets and databases, and *unifying the stakeholders behind a common goal* is important to improve Data Quality in the company.
+
+Proposing **Data Quality rules** can help data experts and actors to have guidelines and roadmaps regarding the company Data Strategy goals.
+Establishing *protocols, standards or even data policies* are the way towards Data Quality global improvement.
+All these elements should build the main framework of working with data within a common environment.
+
+(image "presentation processes")
+
+Paired with these Data Quality rules, protocols or data policies, the relevant **roles and responsibilities should be clarified and communicated**. Many parts have their role to play in Data Quality management, such as the Data Governance Manager, Data Stewards or even the various Data Engineers in the company. Defining *each of these roles and their respective daily missions* is essential in making Data Quality management a collaborative work.
+
+With defined processes, rules and roles, it still remains to **establish clear protocols to maintain/improve Data Quality** on a day-to-day basis. Even if the complete framework is defined and communicated to all stakeholders, *monitoring its application and the evolution of the key metrics* can help making sure the program is on track based on concrete figures.
+
 ## 4. Implementation of Data Quality tools
 
 ## 5. Monitoring, measurement and improvements
