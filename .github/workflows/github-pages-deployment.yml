@@ -2,10 +2,10 @@ name: "Test Github Actions"
 
 on: push
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+# permissions:
+#   contents: read
+#   pages: write
+#   id-token: write
 
 jobs:
 
@@ -15,18 +15,13 @@ jobs:
       - name: "Enable Github Pages"
         id: pages
         uses: actions/configure-pages@v3
-  
-  retrieve_latest_commit:
+
+  build_static_website:
     runs-on: ubuntu-latest
     needs: enable_github_pages
     steps:
       - name: "Retrieve latest commit"
         uses: actions/checkout@v4
-
-  build_static_website:
-    runs-on: ubuntu-latest
-    needs: retrieve_latest_commit
-    steps:
       - name: "Install & configure Ruby"
         uses: ruby/setup-ruby@v1
         with:
