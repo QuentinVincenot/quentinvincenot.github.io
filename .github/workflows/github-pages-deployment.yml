@@ -7,13 +7,22 @@ jobs:
   display_information:
     runs-on: ubuntu-latest
     steps:
-      - name: "Step 1"
-        run: echo ${{ github.repository_owner }}
-      - name: "Step 2"
-        run: echo ${{ github.repository }}
+      #- name: "Step 1"
+      #  run: echo ${{ github.repository_owner }}
+      #- name: "Step 2"
+      #  run: echo ${{ github.repository }}
+      - name: "Install & configure Ruby"
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.2
+          bundler-cache: true
+      - name: "Enable Github Pages"
+        id: pages
+        uses: actions/configure-pages@v3
   
   build_website:
     runs-on: ubuntu-latest
+    needs: display_information
     steps:
       - name: "Retrieve latest commit"
         uses: actions/checkout@v4
