@@ -11,6 +11,12 @@ jobs:
         run: echo ${{ github.repository_owner }}
       - name: "Step 2"
         run: echo ${{ github.repository }}
+  
+  build_website:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Retrieve latest commit"
+        uses: actions/checkout@v4
 
 
 
