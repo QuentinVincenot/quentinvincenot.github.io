@@ -9,25 +9,26 @@ tags: [Strategy, Quality, Reading, Article]
 
 ## 1. Goals & objectives
 
-**"Why do we need to do this ?"** could be the first question you could ask yourself before considering to write a Data Quality Management Plan.
-However, the answer can be quite simple given your company thought either one of those two things:
-"*We have Data Quality issues harming our business, let us solve them.*" or "*Data Quality is essential in our Business Strategy.*".
-Given these considerations, Data Quality is considered as one of your top-priority, and you should address it consequently.
+Before drafting a Data Quality Management Plan, the first question to ask yourself might be: **"Why do we need this?"**.
+The answer is often straightforward, your company likely falls into one of these two categories:
+"*We are facing Data Quality issues that are harming our business, and we need to resolve them.*", or "*Data Quality is a critical component of our Business Strategy.*".
+If either of these applies, then Data Quality is a top priority for your company, and addressing it effectively should be a key focus.
 
-The goal of a Data Quality Management Plan is to **define the company goals in terms of Data Quality**, and the whole set of activities, metrics and monitoring that go with it.
-Data Quality should be seen as a *continuous set of activities, or a long-term and regularly updated program*, generally speaking.
-It has never been a one-shot project action to fix Data Quality issues, but it can be seen as a regularly reviewed program of long-term improvement and automation.
+A Data Quality Management Plan aims to **define the company’s objectives for Data Quality** and establish the necessary activities, metrics, and monitoring processes.
+Data Quality should not be viewed as a one-time fix but rather as *an ongoing process, a long-term regularly updated program*.
+Instead of a single project aimed at solving immediate issues, Data Quality should be approached as a continuous cycle of improvement and automation.
 
 ![Business strategy](assets/2024-10-23-Data-quality-management-plan/business-strategy.png)
 
-Of course, any good Data Quality program should be tightly linked and **aligned with the company Data Strategy**.
-This means *business objectives have already been defined* for the company, with the related metrics and monitoring plans.
-These are the basic starter points for an efficient Data Strategy on a professional scale.
-The Data Quality Management Plan should serve these goals in one way or another, and Data Quality is often an essential part of a company Data Strategy.
+A successful Data Quality program must be **closely aligned with the company's Data Strategy**.
+This means that the business objectives, key metrics, and monitoring plans should already be clearly defined.
+These elements form the foundation of an effective and professional Data Strategy.
+The Data Quality Management Plan should support these objectives, as Data Quality is often a fundamental pillar of a company's broader Data Strategy.
 
-When Data Quality is considered as a priority in a company given its business/data strategies, it can be easy to get lost between all the considerations to take into account.
-The "*Start small, think big*" strategy is often applied regarding such important subjects, as results in **areas with the strongest impacts on your business goals** should drive your strategy.
-It is almost impossible to believe one action will solve everything, but continuous questionning and improvements could.
+When Data Quality is recognized as a priority, it is easy to become overwhelmed by the numerous factors to consider.
+A "*Start small, think big*" approach is often the most effective way to tackle this challenge.
+Focusing on high-impact areas at first, those **that most significantly affect business objectives**, can help shape a clear and results-driven strategy.
+While no single action can resolve all Data Quality issues at once, continuous assessment and iterative improvements will drive long-term success.
 
 ## 2. Assessment of Data Quality status
 
