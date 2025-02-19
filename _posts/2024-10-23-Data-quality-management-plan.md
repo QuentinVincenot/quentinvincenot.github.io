@@ -59,10 +59,37 @@ All these elements should build the main framework of working with data within a
 
 (image "presentation processes")
 
-Paired with these Data Quality rules, protocols or data policies, the relevant **roles and responsibilities should be clarified and communicated**. Many parts have their role to play in Data Quality management, such as the Data Governance Manager, Data Stewards or even the various Data Engineers in the company. Defining *each of these roles and their respective daily missions* is essential in making Data Quality management a collaborative work.
+Paired with these Data Quality rules, protocols or data policies, the relevant **roles and responsibilities should be clarified and communicated**.
+Many parts have their role to play in Data Quality management, such as the Data Governance Manager, Data Stewards or even the various Data Engineers in the company.
+Defining *each of these roles and their respective daily missions* is essential in making Data Quality management a collaborative work.
 
-With defined processes, rules and roles, it still remains to **establish clear protocols to maintain/improve Data Quality** on a day-to-day basis. Even if the complete framework is defined and communicated to all stakeholders, *monitoring its application and the evolution of the key metrics* can help making sure the program is on track based on concrete figures.
+With defined processes, rules and roles, it still remains to **establish clear protocols to maintain/improve Data Quality** on a day-to-day basis.
+Even if the complete framework is defined and communicated to all stakeholders, *monitoring its application and the evolution of the key metrics* can help making sure the program is on track based on concrete figures.
 
 ## 4. Implementation of Data Quality tools
 
+An important toolkit to implement and measure Data Quality are the **data profiling techniques**.
+Exploring these techniques and experimenting on what they can offer in terms of monitoring and automation is essential to get a good grasp on the current and evolving status of your initiative.
+When we go into more concrete details regarding Data Quality rules and considered Data Assets, it is really important to be able to *watch how these elements change over time*.
+
+**Data Cleansing processes** are another point that is also linked to automation and Data Quality implementation.
+Cleaning data is a very consequent part of a Data Quality program, considered as a "curating" step of the global pipeline.
+Formatting data, deleting irrelevant points, and *defining all these corrective actions* are part of a Data Quality Management Plan.
+
+(image "data quality dashboard")
+
+Implementing **Data Quality dashboards** is also an efficient way to *track, monitor and work on your day-to-day Data Quality concerns*.
+Having these information at hand, with your current status, the elements to focus on, or a global trend to compare your starting point and your current status can be helpful to drive your initiative and make sure you are on track.
+
+Last but not least, all **Data Quality efforts should be automated if possible**.
+Whether you have automated data preparation and cleaning workflows, regular data profiling results sent by mail, or Key Performance Indicators automatically computed everyday, it is very important to lower the amount of manual work and efforts on such costly actions.
+
 ## 5. Monitoring, measurement and improvements
+
+Monitor Data Quality through metrics & KPIs
+
+Assess quality, track progress & issues
+
+Perform regular audits
+
+Continuous improvement over time
