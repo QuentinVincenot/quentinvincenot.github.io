@@ -26,6 +26,10 @@ jobs:
     steps:
       - name: "Retrieve latest commit"
         uses: actions/checkout@v4
+      - name: "Build Jekyll static website"
+        run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: "production"
 
 
 
