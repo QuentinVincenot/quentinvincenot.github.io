@@ -82,14 +82,24 @@ Implementing **Data Quality dashboards** is also an efficient way to *track, mon
 Having these information at hand, with your current status, the elements to focus on, or a global trend to compare your starting point and your current status can be helpful to drive your initiative and make sure you are on track.
 
 Last but not least, all **Data Quality efforts should be automated if possible**.
-Whether you have automated data preparation and cleaning workflows, regular data profiling results sent by mail, or Key Performance Indicators automatically computed everyday, it is very important to lower the amount of manual work and efforts on such costly actions.
+Whether you have automated data preparation and cleaning workflows, regular data profiling results sent by mail, or Key Performance Indicators automatically computed everyday, it is very important to *lower the amount of manual work and efforts* on such costly actions.
 
 ## 5. Monitoring, measurement and improvements
 
-Monitor Data Quality through metrics & KPIs
+Congratulations ! You defined your goals and metrics, you assessed your current status regarding Data Quality, you developed processed and you implemented tools for your Data Quality program.
+How about its evolution over time ? Are you sure you are still on track on a weekly basis ? Are you reaching or getting closer to your objectives ?
 
-Assess quality, track progress & issues
+It may be time to consider **monitoring your Data Quality progress with metrics & KPIs**.
+You should have defined in the first place a set of metrics, goals and action plans that can help you understand where you stand regarding your efforts.
+These metrics or KPIs should be your guiding light telling you *how close you are from your desired business position*.
 
-Perform regular audits
+The earlier you can track, register or **regularly write down metrics and measurements** on your Data Quality activities, the easier it becomes to assess the quality and the results of your initiative.
+*Tracking progress through concrete and daily metrics is efficient to steer your Data Quality program* given the potential issues you can face along the road.
 
-Continuous improvement over time
+(image "progress curve")
+
+**Performing regular audits** is also an efficient way to monitor and improve your situation within a Data Quality program.
+Whether through Data Quality correction campaigns, to regularly planned thorough audits on dedicated perimeters, assessing in details the status of data and their alignment with Data Quality rules is the only way to have a clear situation.
+
+Finally, being able to **perform continuous improvements over time** on the Data Quality of your data is important to be geared for long-term data initiatives.
+The earlier and the easier it is for your company to evaluate your current situation, the more efficient you can face new data challenges and the more agile you can be in front of data projects.
