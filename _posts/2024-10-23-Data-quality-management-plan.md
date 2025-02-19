@@ -18,7 +18,7 @@ The goal of a Data Quality Management Plan is to **define the company goals in t
 Data Quality should be seen as a *continuous set of activities, or a long-term and regularly updated program*, generally speaking.
 It has never been a one-shot project action to fix Data Quality issues, but it can be seen as a regularly reviewed program of long-term improvement and automation.
 
-(image "company strategy")
+![Business strategy](assets/2024-10-23-Data-quality-management-plan/business-strategy.png)
 
 Of course, any good Data Quality program should be tightly linked and **aligned with the company Data Strategy**.
 This means *business objectives have already been defined* for the company, with the related metrics and monitoring plans.
@@ -39,7 +39,7 @@ Your current status can be described by the Data Quality criteria you monitor, a
 Naturally, being able to *pinpoint your company weaknesses regarding Data Quality issues* in the first place is mandatory.
 Manually extracting issues or automating checks are two possibilities to assess and prevent business flaws.
 
-(image "assessment")
+![Assessment phase](assets/2024-10-23-Data-quality-management-plan/assessment-phase.png)
 
 Aside of detecting Data Quality issues, your company should **evaluate their impact on the business** you drive, the decisions you take and the customers you target.
 Is Data Quality *hurting your capacity to address the market*, to unlock new possibilities or to drive your current business strategy ? By how much, and why should you focus on Data Quality ?
@@ -57,7 +57,7 @@ Proposing **Data Quality rules** can help data experts and actors to have guidel
 Establishing *protocols, standards or even data policies* are the way towards Data Quality global improvement.
 All these elements should build the main framework of working with data within a common environment.
 
-(image "presentation processes")
+![Process](assets/2024-10-23-Data-quality-management-plan/process.png)
 
 Paired with these Data Quality rules, protocols or data policies, the relevant **roles and responsibilities should be clarified and communicated**.
 Many parts have their role to play in Data Quality management, such as the Data Governance Manager, Data Stewards or even the various Data Engineers in the company.
@@ -76,7 +76,7 @@ When we go into more concrete details regarding Data Quality rules and considere
 Cleaning data is a very consequent part of a Data Quality program, considered as a "curating" step of the global pipeline.
 Formatting data, deleting irrelevant points, and *defining all these corrective actions* are part of a Data Quality Management Plan.
 
-(image "data quality dashboard")
+![Measurement dashboard](assets/2024-10-23-Data-quality-management-plan/measurement-dashboard.png)
 
 Implementing **Data Quality dashboards** is also an efficient way to *track, monitor and work on your day-to-day Data Quality concerns*.
 Having these information at hand, with your current status, the elements to focus on, or a global trend to compare your starting point and your current status can be helpful to drive your initiative and make sure you are on track.
@@ -96,7 +96,7 @@ These metrics or KPIs should be your guiding light telling you *how close you ar
 The earlier you can track, register or **regularly write down metrics and measurements** on your Data Quality activities, the easier it becomes to assess the quality and the results of your initiative.
 *Tracking progress through concrete and daily metrics is efficient to steer your Data Quality program* given the potential issues you can face along the road.
 
-(image "progress curve")
+![Progress curve](assets/2024-10-23-Data-quality-management-plan/progress-curve.png)
 
 **Performing regular audits** is also an efficient way to monitor and improve your situation within a Data Quality program.
 Whether through Data Quality correction campaigns, to regularly planned thorough audits on dedicated perimeters, assessing in details the status of data and their alignment with Data Quality rules is the only way to have a clear situation.
