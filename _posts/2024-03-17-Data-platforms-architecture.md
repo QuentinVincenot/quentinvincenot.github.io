@@ -2,7 +2,7 @@
 title: "Data Platforms Architecture"
 date: 2024-03-17 21:45:00 +0100
 categories: [Data Strategy, Data Architecture]
-tags: [Strategy, Architecture, Reading, Synthesis]
+tags: [Strategy, Architecture, Reading, Article]
 ---
 
 > **Data Platforms Architecture** is the core technical enabler for Big Data Analytics and more generally Data Management activities.
