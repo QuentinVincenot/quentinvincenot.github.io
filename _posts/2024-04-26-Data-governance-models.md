@@ -21,7 +21,7 @@ The most commonly used and easiest model possible to put in place is a **central
 The idea behind a centralised model is to create a *global organisation containing the main roles and key people within the same perimeter/department*.
 It can sometimes be called a Data Office (positionned under the responsibility of a Chief Data Officer), or a Data Governance Office.
 
-This centralised organisation has the responsibility to define the company's Data Strategy, and the **Data Governance Strategy** that should accompany data practices.
+This centralised organisation has the responsibility to define the company's **Data Governance Strategy** that should accompany data practices.
 This department is usually made of *accomplished data practitioners, processes experts or experimented business referents* that know the company's business strategy.
 
 ![Centralised model](assets/2024-04-26-Data-governance-models/centralised-model.png)
@@ -29,8 +29,8 @@ This department is usually made of *accomplished data practitioners, processes e
 Data policies, Data Governance rules, Data Quality guidelines, or even data sharing patterns are some examples of Data practices related to a Data Governance Strategy.
 These **practices are designed by this central entity**, and *their applicability into operational departments are directly distributed* to operationnal teams in the company.
 
-However, the **rigidity of such a centralised model** can lead to local workarounds found by entities to solve some problematics or the slowness of some processes elaboration.
-Such failures in bridging gaps between central policies and local practices *can lead to data security, data privacy or compliance issues* when they are not addresses effectively.
+However, the **rigidity of such a centralised model** can lead to local workarounds found by entities to solve problematics or the processes elaboration slowness.
+Such failures in bridging gaps between central policies and local practices *can lead to data security, data privacy or compliance issues* when they are not addressed effectively.
 
 ## 3. Decentralised model
 
@@ -57,7 +57,7 @@ Adopting an hybrid model takes a bit of organisation at the beginning, because y
 
 Within such routines and processes, you can also imagine have round tables and **iterative discussions to adapt the data policies** to the reality of the field and the business of the company.
 This cannot be more concrete than *the difficulties and the return of experience the business and their practitioners can communicate* during these exchanges.
-This is an excellent mean to find the best fit global policy.
+This is an excellent mean to find the best global policy that fits the company needs.
 
 ![Hybrid model](assets/2024-04-26-Data-governance-models/hybrid-model.png)
 
