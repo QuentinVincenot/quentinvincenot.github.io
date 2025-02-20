@@ -22,7 +22,7 @@ The idea behind a centralised model is to create a *global organisation containi
 It can sometimes be called a Data Office (positionned under the responsibility of a Chief Data Officer), or a Data Governance Office.
 
 This centralised organisation has the responsibility to define the company's **Data Governance Strategy** that should accompany data practices.
-This department is usually made of *accomplished data practitioners, processes experts or experimented business referents* that know the company's business strategy.
+This department is usually made of *accomplished data practitioners, processes experts or experimented business referents* that know the business strategy.
 
 ![Centralised model](assets/2024-04-26-Data-governance-models/centralised-model.png)
 
@@ -30,7 +30,7 @@ Data policies, Data Governance rules, Data Quality guidelines, or even data shar
 These **practices are designed by this central entity**, and *their applicability into operational departments are directly distributed* to operationnal teams in the company.
 
 However, the **rigidity of such a centralised model** can lead to local workarounds found by entities to solve problematics or the processes elaboration slowness.
-Such failures in bridging gaps between central policies and local practices *can lead to data security, data privacy or compliance issues* when they are not addressed effectively.
+Failures in bridging gaps between central policies and local practices *can lead to data security, data privacy or compliance issues* when they are not addressed effectively.
 
 ## 3. Decentralised model
 
