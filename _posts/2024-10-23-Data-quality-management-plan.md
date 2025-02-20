@@ -9,8 +9,8 @@ tags: [Strategy, Quality, Reading, Article]
 
 ## 1. Goals & objectives
 
-Before drafting a Data Quality Management Plan, the first question to ask yourself might be: **"Why do we need this?"**.
-The answer is often straightforward, your company likely falls into one of these two categories:
+**"Why do we need this?"** is the first question to ask yourself before drafting a Data Quality Management Plan.
+If the answer to this question is straightforward, your company will most likely falls into one of these two categories:
 "*We are facing Data Quality issues that are harming our business, and we need to resolve them.*", or "*Data Quality is a critical component of our Business Strategy.*".
 If either of these applies, then Data Quality is a top priority for your company, and addressing it effectively should be a key focus.
 
