@@ -1,5 +1,5 @@
 ---
 layout: archives
 icon: fas fa-code-commit
-order: 3
+order: 2
 ---
