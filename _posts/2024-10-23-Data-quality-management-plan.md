@@ -2,7 +2,7 @@
 title: "Data Quality Management Plan"
 date: 2024-10-23 21:45:00 +0100
 categories: [Data Strategy, Data Quality]
-tags: [Strategy, Quality, Reading, Article]
+tags: [Strategy, Quality, Management, Reading, Article]
 ---
 
 > A Data Quality Management Plan is a *continuous plan of improvement and monitoring* of **Data Quality**.

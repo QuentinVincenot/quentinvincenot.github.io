@@ -2,7 +2,7 @@
 title: "Metadata Management"
 date: 2024-09-15 21:45:00 +0100
 categories: [Data Strategy, Data Management]
-tags: [Strategy, Management, Metadata, Reading, Article]
+tags: [Strategy, Metadata, Management, Reading, Article]
 ---
 
 > Metadata is "**data about data**": everything that *helps describing and better understanding data* can be considered as such.
