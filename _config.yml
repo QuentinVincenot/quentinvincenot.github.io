@@ -14,11 +14,11 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Quentin Vincenot # the main title
+title: Quentin Vincenot
 
-tagline: Data Architect, data-driven # it will display as the sub-title
+tagline: Senior Data Architect, Data Strategy
 
-description: >- # used by seo meta and the atom feed
+description: >-
   Personal and technical website to share about profesional fields and subjets.
 
 # Fill in the protocol & hostname for your site.
@@ -73,7 +73,7 @@ theme_mode:  # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/quentin.jpg
+avatar: /assets/quentin-2024.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
